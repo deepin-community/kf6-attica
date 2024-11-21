@@ -1,0 +1,4 @@
+usr/include/KF6/Attica/
+usr/lib/*/cmake/KF6Attica/
+usr/lib/*/libKF6Attica.so
+usr/lib/*/pkgconfig/KF6Attica.pc
